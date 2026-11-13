@@ -206,4 +206,4 @@ This repository serves as the official landing page for Heartworm. The software 
 **Get the most recent version of Heartworm today!**
 
 ---
-**Last updated:** 2026-11-13 09:04:10 UTC
+**Last updated:** 2026-11-13 17:29:33 UTC
